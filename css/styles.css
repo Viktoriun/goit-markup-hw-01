@@ -13,3 +13,43 @@ body {
     text-transform: uppercase;
     color: #4d5ae5;
 }
+
+.accent {
+    color: #2E2F42;
+}
+
+.page-nav .link {
+font-size: 16px;
+font-weight: 500;
+line-height: 1.5; 
+letter-spacing: 0.02em;
+color: #2E2F42;
+}
+
+.page-nav .link:hover {
+    color: #404bbf;
+}
+
+.page-nav .link:active {
+    color: #404bbf;
+}
+
+.page-adress {
+    font-style: normal;
+}
+
+.page-adress .page-contacts {
+font-size: 16px;
+font-weight: 400;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #434455;
+}
+
+.page-adress .page-contacts:hover {
+    color: #404bbf;
+}
+
+.page-adress .page-contacts:active {
+    color: #404bbf;
+}
